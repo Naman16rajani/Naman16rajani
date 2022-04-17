@@ -1,4 +1,9 @@
-Hi 👋 My name is Naman Rajani =============================  An enthusiastic developer -------------------------  * 🌍  I'm based in India * 🧠  I'm learning Flutter
+Hi 👋 My name is Naman Rajani 
+=============================  
+An enthusiastic developer 
+-------------------------  
+* 🌍  I'm based in India 
+* 🧠  I'm learning Flutter
 
 ### Skills
 
