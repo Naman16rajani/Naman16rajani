@@ -1,9 +1,13 @@
 Hi 👋 My name is Naman Rajani 
 =============================  
-An enthusiastic developer 
+Analysing data, powering Back-ends and Fluttering Interfaces
 -------------------------  
+
 * 🌍  I'm based in India 
 * 🧠  I'm learning Machine Learning
+* 💬 Ask me about **flutter, python, data analysis, react, nodejs, mongodb, express, sql**
+* 📫 How to reach me **rajaninaman16@gmail.com**
+* 📄 Know about my experiences [https://drive.google.com/file/d/1QPNHFPiwwFf4OFQwBiURQziVdt4EVW7X/view?usp=share_link](Resume)
 
 ###
 
