@@ -3,11 +3,11 @@ Hi 👋 My name is Naman Rajani
 Analysing data, powering Back-ends and Fluttering Interfaces
 -------------------------  
 
-* 🌍  I'm based in India 
+* 🌍  I'm based in San Francisco Bay Area, California 
 * 🧠  I'm learning Machine Learning
-* 💬 Ask me about **flutter, python, data analysis, react, nodejs, mongodb, express, sql**
+* 💬 Ask me about **Machine Learning, Artificial Inteligence, Python, Data Analysis, React, Nodejs, Mongodb, Express, Sql, Flutter**
 * 📫 How to reach me **rajaninaman16@gmail.com**
-* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QPNHFPiwwFf4OFQwBiURQziVdt4EVW7X/view?usp=share_link)
+* 📄 Know about my experiences [Portfolio](https://naman-rajani.netlify.app)
 
 ###
 
